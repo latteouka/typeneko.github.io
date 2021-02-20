@@ -1,0 +1,21 @@
+# Example Site settings
+
+google_analytics: UA-155988625-1
+
+title: chunnihongo
+
+header_pages:
+  - about.md
+#  - read.md
+#  - translate.md
+#  - think.md
+
+
+footer: 'follow me on <a href="https://www.instagram.com/chunn.jp/" target="_blank">Instagram</a>'
+
+style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
+
+plugins:
+  - jekyll-seo-tag
+
