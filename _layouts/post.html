@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div style="padding:5px 20px;">
-	{%- assign date_format = "%Y-%m-%d" -%}
-	<h1><u>{{ page.title }}</u></h1>
+	{%- assign date_format = "%y-%m-%d" -%}
+	<h1 style="font-size:2.0em;"><u>{{ page.title }}</u></h1>
 	date: {{ page.date | date: date_format }}<br><br>
 
 	{{ content }}
