@@ -36,7 +36,3 @@ def print_hi(name):
 print('Tom')
 {% endhighlight %}
 
-
-> 慢慢記錄一些點點滴滴。
-> 再來想要加入tag或是目錄功能、圖片也要設定，首頁要怎麼呈現呢？ 
->> 測試測試一下 
