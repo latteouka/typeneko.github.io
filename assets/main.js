@@ -1,4 +1,4 @@
-placeholder_hashtag = "日本語\n語彙\n日語\n日文\n日語學習\n日文小說\njlpt\n日文單字\n日檢\n生活日語\n日文檢定\n日本語能力試驗"
+placeholder_hashtag = "日本語\n語彙\n日語\n日文\n日語學習\n日文小說\n日文單字\n生活日語"
 
 document.getElementById("hashtag").value = placeholder_hashtag;
 
@@ -44,12 +44,10 @@ function hashtag() {
 
   result = []
 
-
   var i;
   for (i = 0; i < hashtags.length; i++) { 
   	result.push("#"+hashtags[i])
   }
-
 
   result_string = ""
 
@@ -71,14 +69,12 @@ function hashtag_random() {
 
   result = []
 
-
   var i;
   for (i = 0; i < hashtags.length; i++) { 
   	result.push("#"+hashtags[i])
   }
 
   shuffle(result);
-
 
   result_string = ""
 
