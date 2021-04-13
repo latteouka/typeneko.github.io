@@ -77,7 +77,7 @@ function hashtag_random() {
   	result.push("#"+hashtags[i])
   }
 
-  result = shuffle(result)
+  shuffle(result);
 
 
   result_string = ""
