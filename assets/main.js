@@ -83,7 +83,7 @@ function hashtag_random() {
   result_string = ""
 
   for (i = 0; i < result.length; i++) { 
-  	result_string = result_string + result[i] + "\n"
+  	result_string = result_string + result[i] + " "
   }
 
   //delete \n
