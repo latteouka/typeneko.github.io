@@ -16,5 +16,7 @@ date: 2021-11-27
 ## Database
 
 這個真的很難爬文，比較了一下，目前我要做的比較偏 offline 端，所以選 Realm（好像被 mongodb 買了，所以雲端同步也有方案，等以後實做看看）。如果要做比較即時的服務，應該會選 Firebase。  
-之前用 couchdb 做的經驗，覺得自己架太麻煩了，現在 backend 就算要花錢，也想要能越簡單越好。  
-關於更新會不會動到 local 資料，爬文都說不會，等實做測試，應該會需要對 db version 跟 migration 有更多了解。
+之前用 couchdb 做的經驗，覺得自己架太麻煩了，現在 backend 就算要花錢，也想要能越簡單越好。
+關於更新會不會動到 local 資料，爬文都說不會，等實做測試，應該會需要對 db version 跟 migration 有更多了解。  
+太久沒用 jekyll，調整一下圖片顯示方式  
+![test](/assets/pictures/test/1.jpg)
