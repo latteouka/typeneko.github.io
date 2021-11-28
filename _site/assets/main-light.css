@@ -289,4 +289,8 @@ pre { background-color: #F8F8FF; border: none; padding: 0; margin: 0; overflow: 
 /* Literal.Number.Integer.Long */
 #section { margin-top: 30px; }
 
+#posts li { margin-bottom: 3px; }
+
+#posts li a { text-decoration: none; }
+
 /*# sourceMappingURL=main-light.css.map */
