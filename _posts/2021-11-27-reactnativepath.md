@@ -11,7 +11,7 @@ date: 2021-11-27
 
 ## Youtube
 
-到處看影片想要多找到一些學習方向的關鍵字，然後發現有 NativeBase（給我類似 chakra-ui 的感覺，覺得神便利）、Reanimated、Moti 等等可以用，都需要實作再去學。不知道有沒有需要特別運用 Redux，這部分有想要繼續了解。
+到處看影片想要多找到一些學習方向的關鍵字，然後發現有 NativeBase（給我類似 chakra-ui 的感覺，覺得神便利）、Reanimated、Moti、RevenueCat等等可以用，都需要實作再去學。不知道有沒有需要特別運用 Redux，這部分有想要繼續了解。
 
 ## Database
 
