@@ -5,7 +5,7 @@ date: 2021-12-02
 ---
 
 ## About Subscription
-JPBOX now only have one subscription as "Monthly: NTD.90"(with 7 days trial).
+JPBOX now only have one subscription plan as "Monthly: NTD.90"(with 7 days trial).
 
 ## END USER LICENSE AGREEMENT
 JPBOX is licensed to You (End-User) by Chun dev., located at  Nanshi 2nd St., Linkou Dist., New Taipei City , Taiwan (R.O.C.) 244018, Taiwan (hereinafter: Licensor), for use only under the terms of this License Agreement.
