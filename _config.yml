@@ -5,6 +5,7 @@ google_analytics: UA-155988625-1
 title: chundev
 
 header_pages:
+  - jpbox.md
   - about.md
 #  - read.md
 #  - translate.md
