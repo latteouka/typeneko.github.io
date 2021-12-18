@@ -24,7 +24,7 @@ h3:before { content: "###";  margin-right: 9px; }
 h4:before { content: "####";  margin-right: 9px; }
 h5:before { content: "#####";  margin-right: 9px; }
 h6:before { content: "######";  margin-right: 9px; }*/
-blockquote { display: block; margin: 1em; padding: 0.5em 2em; background: #F5F5F5; }
+blockquote { display: block; margin: 0.5em 0.3em; padding: 0.5em 1em; background: #F5F5F5; }
 
 img { width: 95%; display: block; margin: auto; padding-top: 10px; padding-bottom: 10px; }
 
