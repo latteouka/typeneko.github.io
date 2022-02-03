@@ -4,7 +4,7 @@
 
 /** Style variables */
 /** Global */
-body { background-color: var(--background-color); margin: 0 auto; padding: 0; font-family: "Noto Sans TC", "Noto Sans JP", "Source Code Pro", monospace; font-size: 16px; color: var(--text-color); text-align: left; line-height: 1.8 !important; }
+body { background-color: var(--background-color); margin: 0 auto; padding: 0; font-family: "Noto Sans JP", "Noto Sans TC", "Source Code Pro", monospace; font-size: 16px; color: var(--text-color); text-align: left; line-height: 1.8 !important; }
 
 h1, h2, h3, h4, h5, h6 { font-size: 1.5em; margin: 0px; margin-top: 19px; font-weight: bold; color: var(--text-color); }
 
@@ -80,7 +80,7 @@ footer { margin-bottom: 20px; }
 /** Form */
 input, select, textarea { padding: 0; margin: 0; -webkit-border-radius: 0; }
 
-input[type=text], select, textarea { width: 100%; resize: none; background-color: var(--background-color); color: var(--text-color); caret-color: var(--text-color); font-size: 16px; font-family: "Noto Sans TC", "Noto Sans JP", "Source Code Pro", monospace; line-height: 1.8; }
+input[type=text], select, textarea { width: 100%; resize: none; background-color: var(--background-color); color: var(--text-color); caret-color: var(--text-color); font-size: 16px; font-family: "Noto Sans JP", "Noto Sans TC", "Source Code Pro", monospace; line-height: 1.8; }
 
 input, select, textarea, textarea::-webkit-input-placeholder { text-indent: 0px; }
 
@@ -90,7 +90,7 @@ input, select, textarea, textarea::-webkit-input-placeholder { text-indent: 0px;
 
 ::-ms-input-placeholder { color: var(--placeholder-color); }
 
-input[type=submit] { font-size: 16px; font-family: "Noto Sans TC", "Noto Sans JP", "Source Code Pro", monospace; line-height: 1.8; cursor: pointer; color: var(--link-color); background-color: var(--background-color); }
+input[type=submit] { font-size: 16px; font-family: "Noto Sans JP", "Noto Sans TC", "Source Code Pro", monospace; line-height: 1.8; cursor: pointer; color: var(--link-color); background-color: var(--background-color); }
 
 input[type=submit]:hover { color: var(--background-color); background-color: var(--base-color); }
 
@@ -112,7 +112,7 @@ tr:nth-child(even) { background-color: #f2f2f2; }
 
 figure.highlight { margin: 5px 0; }
 
-pre { background-color: #F8F8FF; border: none; padding: 0; margin: 0; overflow: auto; font-size: 16px; color: var(--text-color); line-height: 1.7 !important; font-family: "Noto Sans TC", "Noto Sans JP", "Source Code Pro", monospace !important; }
+pre { background-color: #F8F8FF; border: none; padding: 0; margin: 0; overflow: auto; font-size: 16px; color: var(--text-color); line-height: 1.7 !important; font-family: "Noto Sans JP", "Noto Sans TC", "Source Code Pro", monospace !important; }
 
 .highlight .hll { background-color: var(--code-color-2); }
 
