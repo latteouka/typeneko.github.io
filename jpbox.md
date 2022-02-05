@@ -2,7 +2,7 @@
 header_page: jpbox
 layout: default
 ---
-
+<mark class="yellow">取消試用14天，改為直接可以使用200字。</mark>  
 <b>App下載連結：</b>
 [iOS App Store](https://apps.apple.com/tw/app/jpbox/id1597878658)
 [Google Play Store](https://play.google.com/store/apps/details?id=com.chundev.tangobox)
@@ -27,5 +27,6 @@ layout: default
 2022/01/18 2.5.0 N2單字、N3修正
 2022/01/27 2.5.1 N5~N2部分錯誤意思修正、訂閱說明更新
 2022/01/29 2.6.0 N3音檔上線
-2022/01/30 2.6.1 調整試用
-2022/01/02 2.6.2 N3音檔播放完忘記要釋放惹 修正～ 「記得」按鈕加上下次天數
+2022/01/30 2.6.1 調整試用機制為可直接看200字，取消14天
+2022/02/02 2.6.2 N3音檔播放完忘記要釋放惹 修正～ 「記得」按鈕加上下次天數
+2022/02/02 2.6.3 狀態列看得到是新單字還是舊單字
